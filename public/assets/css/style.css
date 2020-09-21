@@ -576,7 +576,7 @@ article{
 /*------------------------ 2 Home ------------------------*/		
 
 .home{
-    background:url(../images/home.jpg) no-repeat center;
+    background:url(../assets/images/back_image.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
